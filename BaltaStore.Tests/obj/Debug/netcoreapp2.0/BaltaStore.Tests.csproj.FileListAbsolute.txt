@@ -1,0 +1,13 @@
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Tests/bin/Debug/netcoreapp2.0/BaltaStore.Tests.deps.json
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Tests/bin/Debug/netcoreapp2.0/BaltaStore.Tests.runtimeconfig.json
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Tests/bin/Debug/netcoreapp2.0/BaltaStore.Tests.runtimeconfig.dev.json
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Tests/bin/Debug/netcoreapp2.0/BaltaStore.Tests.dll
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Tests/bin/Debug/netcoreapp2.0/BaltaStore.Tests.pdb
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Tests/obj/Debug/netcoreapp2.0/BaltaStore.Tests.csproj.CoreCompileInputs.cache
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Tests/obj/Debug/netcoreapp2.0/BaltaStore.Tests.AssemblyInfoInputs.cache
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Tests/obj/Debug/netcoreapp2.0/BaltaStore.Tests.AssemblyInfo.cs
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Tests/obj/Debug/netcoreapp2.0/BaltaStore.Tests.dll
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Tests/obj/Debug/netcoreapp2.0/BaltaStore.Tests.pdb

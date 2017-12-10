@@ -1,0 +1,10 @@
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Api/bin/Debug/netcoreapp2.0/BaltaStore.Api.deps.json
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Api/bin/Debug/netcoreapp2.0/BaltaStore.Api.runtimeconfig.json
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Api/bin/Debug/netcoreapp2.0/BaltaStore.Api.runtimeconfig.dev.json
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Api/bin/Debug/netcoreapp2.0/BaltaStore.Api.dll
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Api/bin/Debug/netcoreapp2.0/BaltaStore.Api.pdb
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Api/obj/Debug/netcoreapp2.0/BaltaStore.Api.csproj.CoreCompileInputs.cache
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Api/obj/Debug/netcoreapp2.0/BaltaStore.Api.AssemblyInfoInputs.cache
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Api/obj/Debug/netcoreapp2.0/BaltaStore.Api.AssemblyInfo.cs
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Api/obj/Debug/netcoreapp2.0/BaltaStore.Api.dll
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Api/obj/Debug/netcoreapp2.0/BaltaStore.Api.pdb

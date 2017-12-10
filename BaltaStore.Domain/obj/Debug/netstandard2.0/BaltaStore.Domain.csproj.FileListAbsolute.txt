@@ -1,0 +1,8 @@
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Domain/bin/Debug/netstandard2.0/BaltaStore.Domain.deps.json
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Domain/bin/Debug/netstandard2.0/BaltaStore.Domain.dll
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Domain/bin/Debug/netstandard2.0/BaltaStore.Domain.pdb
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Domain/obj/Debug/netstandard2.0/BaltaStore.Domain.csproj.CoreCompileInputs.cache
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Domain/obj/Debug/netstandard2.0/BaltaStore.Domain.AssemblyInfoInputs.cache
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Domain/obj/Debug/netstandard2.0/BaltaStore.Domain.AssemblyInfo.cs
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Domain/obj/Debug/netstandard2.0/BaltaStore.Domain.dll
+/home/diego/projetos/.net/BaltaStore/BaltaStore.Domain/obj/Debug/netstandard2.0/BaltaStore.Domain.pdb
